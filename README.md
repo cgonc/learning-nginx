@@ -1,5 +1,7 @@
 These are the heavy distributions of nginx servers on multiple operating systems. Please do not use these images in production environments. These images are for testing only.
 
+The wiki page is here : https://github.com/cgonul/poc-nginx/wiki
+
 # Supported tags and respective `Dockerfile` links
 
 -	[cgonul/nginx:ubuntu16.04LTS](https://github.com/cgonul/poc-nginx/blob/master/nginx/ubuntu16.04LTS/Dockerfile)
